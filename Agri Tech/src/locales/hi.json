@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "कृषि टेक",
+    "tagline": "भारतीय किसानों को सशक्त बनाना"
+  },
+  "nav": {
+    "home": "होम",
+    "community": "समुदाय",
+    "marketplace": "बाज़ार",
+    "jobs": "नौकरियां",
+    "tutorials": "ट्यूटोरियल",
+    "weather": "मौसम और भविष्यवाणी",
+    "profile": "प्रोफ़ाइल",
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट"
+  },
+  "home": {
+    "welcome": "कृषि टेक में आपका स्वागत है",
+    "subtitle": "आपका संपूर्ण कृषि समाधान",
+    "browseMarketplace": "बाज़ार ब्राउज़ करें",
+    "joinCommunity": "समुदाय से जुड़ें",
+    "findJobs": "नौकरियां खोजें",
+    "watchTutorials": "ट्यूटोरियल देखें",
+    "featuredProducts": "विशेष उत्पाद",
+    "trendingTopics": "ट्रेंडिंग विषय",
+    "recentJobs": "हाल की नौकरियां"
+  },
+  "community": {
+    "title": "किसान समुदाय",
+    "newPost": "नई पोस्ट",
+    "trending": "ट्रेंडिंग विषय",
+    "search": "पोस्ट खोजें...",
+    "categories": "श्रेणियां",
+    "posts": "पोस्ट",
+    "comments": "टिप्पणियां",
+    "likes": "लाइक्स",
+    "askQuestion": "प्रश्न पूछें",
+    "shareKnowledge": "ज्ञान साझा करें"
+  },
+  "marketplace": {
+    "title": "कृषि बाज़ार",
+    "search": "उत्पाद खोजें...",
+    "categories": "श्रेणियां",
+    "seeds": "बीज",
+    "fertilizers": "उर्वरक",
+    "tools": "उपकरण",
+    "equipment": "मशीनरी",
+    "addListing": "लिस्टिंग जोड़ें",
+    "contact": "विक्रेता से संपर्क करें",
+    "price": "मूल्य",
+    "location": "स्थान"
+  },
+  "jobs": {
+    "title": "कृषि नौकरियां",
+    "search": "नौकरियां खोजें...",
+    "categories": "श्रेणियां",
+    "farmLabor": "खेत मजदूरी",
+    "landLeasing": "भूमि पट्टे पर देना",
+    "seasonal": "मौसमी काम",
+    "permanent": "स्थायी पद",
+    "postJob": "नौकरी पोस्ट करें",
+    "apply": "आवेदन करें",
+    "salary": "वेतन",
+    "experience": "अनुभव",
+    "location": "स्थान"
+  },
+  "tutorials": {
+    "title": "खेती ट्यूटोरियल",
+    "search": "ट्यूटोरियल खोजें...",
+    "categories": "श्रेणियां",
+    "cropManagement": "फसल प्रबंधन",
+    "pestControl": "कीट नियंत्रण",
+    "organicFarming": "जैविक खेती",
+    "modernTechniques": "आधुनिक तकनीकें",
+    "govtSchemes": "सरकारी योजनाएं",
+    "watchNow": "अभी देखें"
+  },
+  "weather": {
+    "title": "मौसम और फसल भविष्यवाणी",
+    "today": "आज",
+    "forecast": "7-दिन का पूर्वानुमान",
+    "cropPrices": "फसल मूल्य भविष्यवाणी",
+    "location": "स्थान",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "rainfall": "वर्षा",
+    "windSpeed": "हवा की गति"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "mobile": "मोबाइल नंबर",
+    "location": "स्थान",
+    "userType": "उपयोगकर्ता प्रकार",
+    "farmer": "किसान",
+    "buyer": "खरीदार",
+    "expert": "कृषि विशेषज्ञ",
+    "rememberMe": "मुझे याद रखें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "alreadyHaveAccount": "पहले से ही एक खाता है?",
+    "dontHaveAccount": "खाता नहीं है?"
+  },
+  "profile": {
+    "title": "मेरी प्रोफ़ाइल",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "myListings": "मेरी लिस्टिंग",
+    "myPosts": "मेरी पोस्ट",
+    "myJobs": "मेरी नौकरियां",
+    "savedItems": "सहेजे गए आइटम",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "changePassword": "पासवर्ड बदलें"
+  }
+}

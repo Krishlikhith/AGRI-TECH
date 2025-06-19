@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "விவசாய டெக்",
+    "tagline": "இந்திய விவசாயிகளை மேம்படுத்துதல்"
+  },
+  "nav": {
+    "home": "முகப்பு",
+    "community": "சமூகம்",
+    "marketplace": "சந்தை",
+    "jobs": "வேலைகள்",
+    "tutorials": "பயிற்சிகள்",
+    "weather": "வானிலை & முன்கணிப்புகள்",
+    "profile": "சுயவிவரம்",
+    "login": "உள்நுழைக",
+    "register": "பதிவு செய்க",
+    "logout": "வெளியேறு"
+  },
+  "home": {
+    "welcome": "விவசாய டெக்-க்கு வரவேற்கிறோம்",
+    "subtitle": "உங்கள் முழுமையான விவசாய தீர்வு",
+    "browseMarketplace": "சந்தையைப் பார்வையிட",
+    "joinCommunity": "சமூகத்தில் சேரவும்",
+    "findJobs": "வேலைகளைக் கண்டறிக",
+    "watchTutorials": "பயிற்சிகளைப் பார்க்க",
+    "featuredProducts": "சிறப்பு தயாரிப்புகள்",
+    "trendingTopics": "பிரபலமான தலைப்புகள்",
+    "recentJobs": "சமீபத்திய வேலைகள்"
+  },
+  "community": {
+    "title": "விவசாயி சமூகம்",
+    "newPost": "புதிய பதிவு",
+    "trending": "டிரெண்டிங் தலைப்புகள்",
+    "search": "பதிவுகளைத் தேடுங்கள்...",
+    "categories": "வகைகள்",
+    "posts": "பதிவுகள்",
+    "comments": "கருத்துகள்",
+    "likes": "விருப்பங்கள்",
+    "askQuestion": "கேள்வி கேட்க",
+    "shareKnowledge": "அறிவைப் பகிரவும்"
+  },
+  "marketplace": {
+    "title": "விவசாய சந்தை",
+    "search": "தயாரிப்புகளைத் தேடுங்கள்...",
+    "categories": "வகைகள்",
+    "seeds": "விதைகள்",
+    "fertilizers": "உரங்கள்",
+    "tools": "கருவிகள்",
+    "equipment": "உபகரணங்கள்",
+    "addListing": "பட்டியலைச் சேர்க்கவும்",
+    "contact": "விற்பனையாளரைத் தொடர்பு கொள்ளவும்",
+    "price": "விலை",
+    "location": "இடம்"
+  },
+  "jobs": {
+    "title": "விவசாய வேலைகள்",
+    "search": "வேலைகளைத் தேடுங்கள்...",
+    "categories": "வகைகள்",
+    "farmLabor": "பண்ணை தொழிலாளர்",
+    "landLeasing": "நிலக் குத்தகை",
+    "seasonal": "பருவகால வேலை",
+    "permanent": "நிரந்தர பதவிகள்",
+    "postJob": "வேலை பதிவு",
+    "apply": "விண்ணப்பிக்கவும்",
+    "salary": "சம்பளம்",
+    "experience": "அனுபவம்",
+    "location": "இடம்"
+  },
+  "tutorials": {
+    "title": "விவசாய பயிற்சிகள்",
+    "search": "பயிற்சிகளைத் தேடுங்கள்...",
+    "categories": "வகைகள்",
+    "cropManagement": "பயிர் மேலாண்மை",
+    "pestControl": "பூச்சி கட்டுப்பாடு",
+    "organicFarming": "இயற்கை விவசாயம்",
+    "modernTechniques": "நவீன நுட்பங்கள்",
+    "govtSchemes": "அரசு திட்டங்கள்",
+    "watchNow": "இப்போது பார்க்க"
+  },
+  "weather": {
+    "title": "வானிலை & பயிர் முன்கணிப்புகள்",
+    "today": "இன்று",
+    "forecast": "7-நாள் முன்னறிவிப்பு",
+    "cropPrices": "பயிர் விலை முன்கணிப்புகள்",
+    "location": "இடம்",
+    "temperature": "வெப்பநிலை",
+    "humidity": "ஈரப்பதம்",
+    "rainfall": "மழைப்பொழிவு",
+    "windSpeed": "காற்றின் வேகம்"
+  },
+  "auth": {
+    "login": "உள்நுழைக",
+    "register": "பதிவு செய்க",
+    "email": "மின்னஞ்சல்",
+    "password": "கடவுச்சொல்",
+    "confirmPassword": "கடவுச்சொல்லை உறுதிப்படுத்துக",
+    "name": "முழு பெயர்",
+    "mobile": "மொபைல் எண்",
+    "location": "இடம்",
+    "userType": "பயனர் வகை",
+    "farmer": "விவசாயி",
+    "buyer": "வாங்குபவர்",
+    "expert": "விவசாய நிபுணர்",
+    "rememberMe": "என்னை நினைவில் கொள்ளுங்கள்",
+    "forgotPassword": "கடவுச்சொல் மறந்துவிட்டதா?",
+    "alreadyHaveAccount": "ஏற்கனவே ஒரு கணக்கு உள்ளதா?",
+    "dontHaveAccount": "கணக்கு இல்லையா?"
+  },
+  "profile": {
+    "title": "எனது சுயவிவரம்",
+    "personalInfo": "தனிப்பட்ட தகவல்",
+    "myListings": "எனது பட்டியல்கள்",
+    "myPosts": "எனது பதிவுகள்",
+    "myJobs": "எனது வேலைகள்",
+    "savedItems": "சேமிக்கப்பட்ட உருப்படிகள்",
+    "editProfile": "சுயவிவரத்தைத் திருத்த",
+    "changePassword": "கடவுச்சொல்லை மாற்ற"
+  }
+}

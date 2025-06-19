@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "AGRI TECH",
+    "tagline": "Empowering Indian Farmers"
+  },
+  "nav": {
+    "home": "Home",
+    "community": "Community",
+    "marketplace": "Marketplace",
+    "jobs": "Jobs",
+    "tutorials": "Tutorials",
+    "weather": "Weather & Predictions",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "welcome": "Welcome to AGRI TECH",
+    "subtitle": "Your complete agricultural solution",
+    "browseMarketplace": "Browse Marketplace",
+    "joinCommunity": "Join Community",
+    "findJobs": "Find Jobs",
+    "watchTutorials": "Watch Tutorials",
+    "featuredProducts": "Featured Products",
+    "trendingTopics": "Trending Topics",
+    "recentJobs": "Recent Jobs"
+  },
+  "community": {
+    "title": "Farmer Community",
+    "newPost": "New Post",
+    "trending": "Trending Topics",
+    "search": "Search posts...",
+    "categories": "Categories",
+    "posts": "Posts",
+    "comments": "Comments",
+    "likes": "Likes",
+    "askQuestion": "Ask a Question",
+    "shareKnowledge": "Share Knowledge"
+  },
+  "marketplace": {
+    "title": "Agricultural Marketplace",
+    "search": "Search products...",
+    "categories": "Categories",
+    "seeds": "Seeds",
+    "fertilizers": "Fertilizers",
+    "tools": "Tools",
+    "equipment": "Equipment",
+    "addListing": "Add Listing",
+    "contact": "Contact Seller",
+    "price": "Price",
+    "location": "Location"
+  },
+  "jobs": {
+    "title": "Agricultural Jobs",
+    "search": "Search jobs...",
+    "categories": "Categories",
+    "farmLabor": "Farm Labor",
+    "landLeasing": "Land Leasing",
+    "seasonal": "Seasonal Work",
+    "permanent": "Permanent Positions",
+    "postJob": "Post Job",
+    "apply": "Apply",
+    "salary": "Salary",
+    "experience": "Experience",
+    "location": "Location"
+  },
+  "tutorials": {
+    "title": "Farming Tutorials",
+    "search": "Search tutorials...",
+    "categories": "Categories",
+    "cropManagement": "Crop Management",
+    "pestControl": "Pest Control",
+    "organicFarming": "Organic Farming",
+    "modernTechniques": "Modern Techniques",
+    "govtSchemes": "Government Schemes",
+    "watchNow": "Watch Now"
+  },
+  "weather": {
+    "title": "Weather & Crop Predictions",
+    "today": "Today",
+    "forecast": "7-Day Forecast",
+    "cropPrices": "Crop Price Predictions",
+    "location": "Location",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "windSpeed": "Wind Speed"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "mobile": "Mobile Number",
+    "location": "Location",
+    "userType": "User Type",
+    "farmer": "Farmer",
+    "buyer": "Buyer",
+    "expert": "Agricultural Expert",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "myListings": "My Listings",
+    "myPosts": "My Posts",
+    "myJobs": "My Jobs",
+    "savedItems": "Saved Items",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password"
+  }
+}

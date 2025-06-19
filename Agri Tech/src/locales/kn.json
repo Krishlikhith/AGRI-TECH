@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "ಕೃಷಿ ಟೆಕ್",
+    "tagline": "ಭಾರತೀಯ ರೈತರನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸುವುದು"
+  },
+  "nav": {
+    "home": "ಮುಖಪುಟ",
+    "community": "ಸಮುದಾಯ",
+    "marketplace": "ಮಾರುಕಟ್ಟೆ",
+    "jobs": "ಉದ್ಯೋಗಗಳು",
+    "tutorials": "ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು",
+    "weather": "ಹವಾಮಾನ & ಮುನ್ಸೂಚನೆಗಳು",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "login": "ಲಾಗಿನ್",
+    "register": "ನೋಂದಣಿ",
+    "logout": "ಲಾಗ್ ಔಟ್"
+  },
+  "home": {
+    "welcome": "ಕೃಷಿ ಟೆಕ್‌ಗೆ ಸುಸ್ವಾಗತ",
+    "subtitle": "ನಿಮ್ಮ ಸಂಪೂರ್ಣ ಕೃಷಿ ಪರಿಹಾರ",
+    "browseMarketplace": "ಮಾರುಕಟ್ಟೆ ಬ್ರೌಸ್ ಮಾಡಿ",
+    "joinCommunity": "ಸಮುದಾಯವನ್ನು ಸೇರಿ",
+    "findJobs": "ಉದ್ಯೋಗಗಳನ್ನು ಹುಡುಕಿ",
+    "watchTutorials": "ಟ್ಯುಟೋರಿಯಲ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+    "featuredProducts": "ವಿಶೇಷ ಉತ್ಪನ್ನಗಳು",
+    "trendingTopics": "ಟ್ರೆಂಡಿಂಗ್ ವಿಷಯಗಳು",
+    "recentJobs": "ಇತ್ತೀಚಿನ ಉದ್ಯೋಗಗಳು"
+  },
+  "community": {
+    "title": "ರೈತ ಸಮುದಾಯ",
+    "newPost": "ಹೊಸ ಪೋಸ್ಟ್",
+    "trending": "ಟ್ರೆಂಡಿಂಗ್ ವಿಷಯಗಳು",
+    "search": "ಪೋಸ್ಟ್‌ಗಳನ್ನು ಹುಡುಕಿ...",
+    "categories": "ವರ್ಗಗಳು",
+    "posts": "ಪೋಸ್ಟ್‌ಗಳು",
+    "comments": "ಕಾಮೆಂಟ್‌ಗಳು",
+    "likes": "ಲೈಕ್‌ಗಳು",
+    "askQuestion": "ಪ್ರಶ್ನೆ ಕೇಳಿ",
+    "shareKnowledge": "ಜ್ಞಾನವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+  },
+  "marketplace": {
+    "title": "ಕೃಷಿ ಮಾರುಕಟ್ಟೆ",
+    "search": "ಉತ್ಪನ್ನಗಳನ್ನು ಹುಡುಕಿ...",
+    "categories": "ವರ್ಗಗಳು",
+    "seeds": "ಬೀಜಗಳು",
+    "fertilizers": "ಗೊಬ್ಬರಗಳು",
+    "tools": "ಉಪಕರಣಗಳು",
+    "equipment": "ಯಂತ್ರೋಪಕರಣಗಳು",
+    "addListing": "ಪಟ್ಟಿ ಸೇರಿಸಿ",
+    "contact": "ಮಾರಾಟಗಾರನನ್ನು ಸಂಪರ್ಕಿಸಿ",
+    "price": "ಬೆಲೆ",
+    "location": "ಸ್ಥಳ"
+  },
+  "jobs": {
+    "title": "ಕೃಷಿ ಉದ್ಯೋಗಗಳು",
+    "search": "ಉದ್ಯೋಗಗಳನ್ನು ಹುಡುಕಿ...",
+    "categories": "ವರ್ಗಗಳು",
+    "farmLabor": "ಕೃಷಿ ಕಾರ್ಮಿಕ",
+    "landLeasing": "ಭೂಮಿ ಗುತ್ತಿಗೆ",
+    "seasonal": "ಋತುಮಾನದ ಕೆಲಸ",
+    "permanent": "ಶಾಶ್ವತ ಹುದ್ದೆಗಳು",
+    "postJob": "ಉದ್ಯೋಗ ಪೋಸ್ಟ್ ಮಾಡಿ",
+    "apply": "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "salary": "ಸಂಬಳ",
+    "experience": "ಅನುಭವ",
+    "location": "ಸ್ಥಳ"
+  },
+  "tutorials": {
+    "title": "ಕೃಷಿ ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು",
+    "search": "ಟ್ಯುಟೋರಿಯಲ್‌ಗಳನ್ನು ಹುಡುಕಿ...",
+    "categories": "ವರ್ಗಗಳು",
+    "cropManagement": "ಬೆಳೆ ನಿರ್ವಹಣೆ",
+    "pestControl": "ಕೀಟ ನಿಯಂತ್ರಣ",
+    "organicFarming": "ಸಾವಯವ ಕೃಷಿ",
+    "modernTechniques": "ಆಧುನಿಕ ತಂತ್ರಗಳು",
+    "govtSchemes": "ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು",
+    "watchNow": "ಈಗ ವೀಕ್ಷಿಸಿ"
+  },
+  "weather": {
+    "title": "ಹವಾಮಾನ & ಬೆಳೆ ಮುನ್ಸೂಚನೆಗಳು",
+    "today": "ಇಂದು",
+    "forecast": "7-ದಿನದ ಮುನ್ಸೂಚನೆ",
+    "cropPrices": "ಬೆಳೆ ಬೆಲೆ ಮುನ್ಸೂಚನೆಗಳು",
+    "location": "ಸ್ಥಳ",
+    "temperature": "ತಾಪಮಾನ",
+    "humidity": "ಆರ್ದ್ರತೆ",
+    "rainfall": "ಮಳೆ",
+    "windSpeed": "ಗಾಳಿಯ ವೇಗ"
+  },
+  "auth": {
+    "login": "ಲಾಗಿನ್",
+    "register": "ನೋಂದಣಿ",
+    "email": "ಇಮೇಲ್",
+    "password": "ಪಾಸ್‌ವರ್ಡ್",
+    "confirmPassword": "ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+    "name": "ಪೂರ್ಣ ಹೆಸರು",
+    "mobile": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+    "location": "ಸ್ಥಳ",
+    "userType": "ಬಳಕೆದಾರ ಪ್ರಕಾರ",
+    "farmer": "ರೈತ",
+    "buyer": "ಖರೀದಿದಾರ",
+    "expert": "ಕೃಷಿ ತಜ್ಞ",
+    "rememberMe": "ನನ್ನನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ",
+    "forgotPassword": "ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರಾ?",
+    "alreadyHaveAccount": "ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರಾ?",
+    "dontHaveAccount": "ಖಾತೆ ಇಲ್ಲವೇ?"
+  },
+  "profile": {
+    "title": "ನನ್ನ ಪ್ರೊಫೈಲ್",
+    "personalInfo": "ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ",
+    "myListings": "ನನ್ನ ಪಟ್ಟಿಗಳು",
+    "myPosts": "ನನ್ನ ಪೋಸ್ಟ್‌ಗಳು",
+    "myJobs": "ನನ್ನ ಉದ್ಯೋಗಗಳು",
+    "savedItems": "ಉಳಿಸಿದ ಐಟಂಗಳು",
+    "editProfile": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
+    "changePassword": "ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ"
+  }
+}
